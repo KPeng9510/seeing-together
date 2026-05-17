@@ -43,10 +43,6 @@ This repository contains the official implementation of:
 
 **CoopSR** evaluates whether multimodal large language models can build a shared understanding of a dynamic environment from multiple robot viewpoints.
 
-<p align="center">
-  <img src="assets/coopsr_taxonomy.png" width="90%" alt="CoopSR QA taxonomy">
-</p>
-
 The benchmark covers four progressive reasoning levels:
 
 | Tier | Name | Description |
@@ -95,10 +91,6 @@ The dataset supports questions involving:
 
 It is designed to help MLLMs reason over long, redundant, and partially overlapping video streams from multiple robots.
 
-<p align="center">
-  <img src="assets/spcor_pipeline.png" width="90%" alt="SP-CoR pipeline">
-</p>
-
 SP-CoR contains three main components.
 
 ### 1. Spectral Energy-Aware Multi-Robot Relevant Frame Sampler
@@ -145,6 +137,17 @@ SP-CoR achieves state-of-the-art performance on CoopSR across Habitat and iGibso
 | **SP-CoR** | **70.55** | **70.82** |
 
 SP-CoR also improves generalization to unseen team sizes. When trained on `N = 2, 3` robots and evaluated on `N = 4`, SP-CoR achieves the strongest performance across tested backbones.
+---
+
+## Dataset Download Link
+
+Sim Videos and sim+real QAs
+
+[KPeng9510/EgoTeam](https://huggingface.co/datasets/KPeng9510/EgoTeam/tree/main)
+
+Realworld videos
+
+[Download Link](https://pan.baidu.com/s/1FwRh9foJu78qII4E5X7Fvg?pwd=r689)
 
 ---
 
