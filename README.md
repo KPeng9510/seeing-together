@@ -4,13 +4,6 @@
   <img src="assets/overview.png" width="90%" alt="CoopSR and SP-CoR overview">
 </p>
 
-<p align="center">
-  <a href="TODO_PAPER_LINK"><img src="https://img.shields.io/badge/Paper-PDF-blue" alt="Paper"></a>
-  <a href="TODO_PROJECT_PAGE"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
-  <a href="TODO_DATASET_LINK"><img src="https://img.shields.io/badge/Dataset-EgoTeam-orange" alt="Dataset"></a>
-  <a href="TODO_MODEL_LINK"><img src="https://img.shields.io/badge/Model-SP--CoR-purple" alt="Model"></a>
-  <a href="TODO_LICENSE"><img src="https://img.shields.io/badge/License-TODO-lightgrey" alt="License"></a>
-</p>
 
 ## Seeing Together
 
